@@ -39,6 +39,3 @@ Este laboratório proporcionou uma experiência prática essencial para compreen
 
 🔗 **Sinta-se à vontade para contribuir e aprimorar este repositório!** 🚀  
 
----
-
-Caso precise de mais algum ajuste, me avise! 🚀
