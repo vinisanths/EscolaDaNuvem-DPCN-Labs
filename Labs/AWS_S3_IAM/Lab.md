@@ -27,8 +27,7 @@ Este repositório contém um laboratório prático para configurar e testar perm
 6️⃣ **Criação de Usuário IAM com permissões de leitura**  
 7️⃣ **Testes de acesso e restrições**  
 8️⃣ **Exclusão dos recursos criados**  
-
-Para o guia detalhado, acesse: [AWS-S3-IAM-Lab-Guide.md](./AWS-S3-IAM-Lab-Guide.md)  
+ 
 
 ## 📸 Capturas de Tela  
 As imagens do laboratório podem ser encontradas na pasta `Screenshots`, demonstrando os testes realizados.  
