@@ -16,7 +16,7 @@ Este repositório contém os **laboratórios práticos realizados durante a form
 
 | 🔹 **Nome**                           | 🏷️ **Serviços AWS**       | 📂 **Pasta**                  |
 |--------------------------------------|-------------------------|-------------------------------|
-|  Laboratório Prático AWS - S3 e IAM | S3, IAM                 | `Labs/AWS-S3-IAM-Lab/`        |
+|  Laboratório Prático AWS - S3 e IAM | S3, IAM                 | `Labs/AWS-S3-IAM`        |
 
 📌 **Cada laboratório contém:**  
 ✔ **Passo a passo detalhado** em um arquivo `README.md` na respectiva pasta.  
