@@ -17,9 +17,7 @@ Este repositório contém os **laboratórios práticos realizados durante a form
 | 🔹 **Nome**                           | 🏷️ **Serviços AWS**       | 📂 **Pasta**                  |
 |--------------------------------------|-------------------------|-------------------------------|
 |  Laboratório Prático AWS - S3 e IAM | S3, IAM                 | `Labs/AWS-S3-IAM`        |
-|--------------------------------------|-------------------------|-------------------------------|
 |Laboratório Notificações S3 - SNS e SQS |SNS, SQS, S3 |`Labs/Laboratório Notificações de Upload_Exclusão no S3 com SNS e  SQS`|
-|--------------------------------------|-------------------------|-------------------------------|
 |Auto Scaling e Elastic Load Balancer| ASG, ELB, SG, EC2| `Labs/Auto Escaling e Elastic Load Balancer usando Launch Templates` |
 |--------------------------------------|-------------------------|-------------------------------|
 
