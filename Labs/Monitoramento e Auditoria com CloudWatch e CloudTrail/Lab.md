@@ -70,7 +70,7 @@ Este laboratório faz parte da formação **Escola da Nuvem - Turma DPCN**, com 
 ---
 
 ## 👨‍🏫 Formação: **Escola da Nuvem**  
-Professora: **Joao Gaioso**  
+Professor: **Joao Gaioso**  
 Turma: **DPCN**
 
 ---
