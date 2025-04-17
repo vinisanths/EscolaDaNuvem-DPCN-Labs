@@ -21,6 +21,7 @@ Este repositório contém os **laboratórios práticos realizados durante a form
 |Auto Scaling e Elastic Load Balancer| ASG, ELB, SG, EC2| `Labs/Auto Escaling e Elastic Load Balancer usando Launch Templates` |
 |Versionamento S3|S3(Life Cycles)|`Labs/Versionamento S3`|
 |Monitoramento e Auditoria com CloudWatch e CloudTrail| S3, SNS, EC2, CloudWatch, CloudTrail | `Labs/Monitoramento e Auditoria com CloudWatch e CloudTrail`|
+|Amazon EC2 e Armazenamento EBS|EC2, EBS, IAM|`Labs/Amazon EC2 e Armazenamento EBS`|
 
 
 📌 **Cada laboratório contém:**  
