@@ -58,12 +58,12 @@ Este é o último laboratório da trilha da **Turma DPCN** da **Escola da Nuvem*
 ---
 
 ## 👩‍🏫 Formação: **Escola da Nuvem**  
-Professora: **João Gaioso**  
+Professor: **João Gaioso**  
 Turma: **DPCN**
 
 ---
 
 ## ✍️ Autor
 
-**Vincius Santos**  
+**Vinicius Santos**  
 Turma DPCN – Escola da Nuvem
